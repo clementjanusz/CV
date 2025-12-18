@@ -189,8 +189,8 @@ st.markdown(
     </div>
     <div style="margin-top: 6px; color: black; font-size: 0.95rem; line-height: 1.4;">
         Profil LinkedIn :
-        <a href="https://www.linkedin.com/in/manojosephmatthew/" target="_blank" rel="noopener noreferrer">
-            https://www.linkedin.com/in/manojosephmatthew/
+        <a href="https://www.linkedin.com/in/manomathew/" target="_blank" rel="noopener noreferrer">
+            https://www.linkedin.com/in/manomathew/
         </a>
     </div>
 </div>
