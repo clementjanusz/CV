@@ -178,7 +178,7 @@ st.markdown("""
 st.markdown(
         """
 <div style="
-        background: rgba(0, 24, 0, 0.65);
+        background: rgba(0, 255, 0, 0.3);
         border-left: 6px solid #22C55E;
         padding: 16px 18px;
         border-radius: 10px;
