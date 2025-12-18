@@ -174,3 +174,26 @@ st.markdown("""
     Built with Streamlit • Based on the CV of Clément JANUSZ
 </div>
 """, unsafe_allow_html=True)
+
+st.markdown(
+        """
+<div style="
+        background: rgba(17, 24, 39, 0.65);
+        border-left: 6px solid #22C55E;
+        padding: 16px 18px;
+        border-radius: 10px;
+        margin-top: 14px;
+">
+    <div style="color: #E5E7EB; font-size: 0.95rem; line-height: 1.4;">
+        Dashboard interactif réalisé sous la supervision pédagogique de : <b>Mano Joseph Matthew</b>
+    </div>
+    <div style="margin-top: 6px; color: #E5E7EB; font-size: 0.95rem; line-height: 1.4;">
+        Profil LinkedIn :
+        <a href="https://www.linkedin.com/in/manojosephmatthew/" target="_blank" rel="noopener noreferrer">
+            https://www.linkedin.com/in/manojosephmatthew/
+        </a>
+    </div>
+</div>
+""",
+        unsafe_allow_html=True,
+)
